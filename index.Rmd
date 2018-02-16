@@ -17,6 +17,28 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# <small> What we did last week... </small>
+
+----
+
+We talked about the scientic <br>
+process by looking at the <br>
+hypothetico-deductive model
+
+----
+
+We then talked about how <br>
+to make it more open
+
+----
+
+We talked about problems <br>
+related to open science
+
+----
+
+Any questions or anything to add?
+
 # <small>Today:<br>Digital open scientist's toolbox - Part I</small>
 
 
