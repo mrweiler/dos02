@@ -142,6 +142,12 @@ Eight questions to preregistration at:
 
 ----
 
+Please take 5 minutes to discuss <br>
+with your neighbors what you think <br>
+would be important questions
+
+----
+
 What's the main question being <br>
 asked or hypothesis being tested <br>
 in this study?
@@ -263,5 +269,14 @@ On Thursday at 2:00 p.m.
 Please take a look at the <br>
 experiments and surveys at <br>
 <a href="https://expfactory.github.io/expfactory/">The Experiment Factory</a>
+
+----
+
+If you haven't already:
+
+- Get an account at <a href="https://osf.io">https://osf.io</a>
+
+- Send your email address to <br><a href="mailto:m.weiler@fu-berlin.de">m.weiler@fu-berlin.de</a>
+
 
 # <small>Thank you for your attention</small>
