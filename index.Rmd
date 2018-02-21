@@ -66,12 +66,21 @@ If not, please do so at <br>
 
 ----
 
+## <small> My suggestions </small>
+
+- Plan a research project
+- Present your proposal
+- Do some research
+- Present your results
+
+----
+
 ## <small> Planning </small>
 
 - Choose from a list of online <br>experiments and surveys
 - Prepare introduction, method <br>section and proposed analysis
 
-## <small> Presentation </small>
+## <small> Proposal presentation </small>
 
 - Present your project to the others
 - Short talk (5 mins + questions)
